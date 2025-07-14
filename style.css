@@ -1,0 +1,27 @@
+@charset "UTF-8";
+body{
+    background-color: rgba(6, 61, 97, 0.473);
+    margin: 0;
+}
+img{
+    margin: auto;
+    display: block;
+}
+h1,h2,h3,p{
+    text-align: center;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.363);
+    margin-bottom: 10px;
+}
+footer {
+    background-color: #1A2733;
+    color: white;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+    display: block;
+}
+footer>p>a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
